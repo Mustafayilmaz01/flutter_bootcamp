@@ -1,5 +1,5 @@
-import 'package:calisma_yapisi/anasayfam.dart';
-import 'package:calisma_yapisi/odev/anasayfa.dart';
+import 'package:calisma_yapisi/filmler_app/ui/views/film_anasayfa.dart';
+import 'package:calisma_yapisi/getir_arayuz/ui/views/getir_anasayfa.dart';
 
 import 'package:flutter/material.dart';
 
@@ -14,8 +14,9 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Flutter Demo',
+      debugShowCheckedModeBanner: false,
       theme: ThemeData(colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple)),
-      home: Anasayfam(),
+      home: GetirAnasayfa(),
     );
   }
 }

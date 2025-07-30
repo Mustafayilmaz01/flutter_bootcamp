@@ -61,6 +61,32 @@ flutter:
   assets:
     - resimler/mutsuz.png
     - resimler/mutlu.png
+    - resimler/bilgisayar.png
+    - resimler/gozluk.png
+    - resimler/kulaklik.png
+    - resimler/parfum.png
+    - resimler/saat.png
+    - resimler/supurge.png
+    - resimler/anadoluda.png
+    - resimler/django.png
+    - resimler/inception.png
+    - resimler/interstellar.png
+    - resimler/thehatefuleight.png
+    - resimler/thepianist.png
+    - resimler/getir.png
+    - resimler/indirim.png
+    - resimler/yeni.png
+    - resimler/su.png
+    - resimler/sebze.png
+    - resimler/simit.png
+    - resimler/temel.png
+    - resimler/cips.png
+    - resimler/dondurma.png
+    - resimler/sut.png
+    - resimler/yumurta.png
+    - resimler/yiyecek.png
+    - resimler/fit.png
+
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
